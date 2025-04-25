@@ -17,13 +17,14 @@ This repository serves as a digital notebook and learning space for my mathemati
 
 As this is an ongoing project, the topics covered will expand over time. Currently, you might find content related to:
 
-* **[Week-1 | Matrices & Linear Equation]**
-* **[Week-2 | Vector Spaces]**
-* **[Week-3 | Matrices Decomposition]**
-* **[Week-4 | Vector Calculus]**
-* **[Week-5 | Continous Optimization]**
-* **[Week-6 | Non-Linear Optimization]**
-* **[Week-7 | Dimensionality Reduction & PCA]**
+* **[Week-1 | Matrices]**
+* **[Week-2 | Linear Algebra]**
+* **[Week-3 | Vector Spaces]**
+* **[Week-4 | Matrices Decomposition]**
+* **[Week-5 | Vector Calculus]**
+* **[Week-6 | Continous Optimization]**
+* **[Week-7 | Non-Linear Optimization]**
+* **[Week-8 | Dimensionality Reduction & PCA]**
 
 
 **Note:** The level of detail and the specific sub-topics covered within each area will vary. This repository reflects my personal learning path and interests.
